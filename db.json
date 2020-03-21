@@ -1,0 +1,452 @@
+{
+  "cursos": [
+    {
+      "idciclo": 99,
+      "codareaemec": 73,
+      "descricaoarea": "TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL"
+    },
+    {
+      "idciclo": 99,
+      "codareaemec": 76,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL"
+    },
+    {
+      "idciclo": 99,
+      "codareaemec": 1401,
+      "descricaoarea": "FÍSICA (BACHARELADO)"
+    },
+    {
+      "idciclo": 99,
+      "codareaemec": 701,
+      "descricaoarea": "MATEMÁTICA (BACHARELADO)"
+    },
+    {
+      "idciclo": 99,
+      "codareaemec": 903,
+      "descricaoarea": "LETRAS-PORTUGUÊS (BACHARELADO)"
+    },
+    {
+      "idciclo": 99,
+      "codareaemec": 5809,
+      "descricaoarea": "ENGENHARIA DE COMPUTAÇÃO"
+    },
+    {
+      "idciclo": 99,
+      "codareaemec": 9999,
+      "descricaoarea": "N/D"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 4003,
+      "descricaoarea": "ENGENHARIA DA COMPUTAÇÃO"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 5710,
+      "descricaoarea": "ENGENHARIA CIVIL"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 5806,
+      "descricaoarea": "ENGENHARIA ELÉTRICA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 8888,
+      "descricaoarea": "TECNOLOGIA EM SEGURANÇA DO TRABALHO"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 5814,
+      "descricaoarea": "ENGENHARIA DE CONTROLE E AUTOMAÇÃO"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 5902,
+      "descricaoarea": "ENGENHARIA MECÂNICA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 6008,
+      "descricaoarea": "ENGENHARIA QUÍMICA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 6009,
+      "descricaoarea": "ENGENHARIA DE ALIMENTOS"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 6208,
+      "descricaoarea": "ENGENHARIA DE PRODUÇÃO"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 6306,
+      "descricaoarea": "ENGENHARIA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 6307,
+      "descricaoarea": "ENGENHARIA AMBIENTAL"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 90,
+      "descricaoarea": "TECNOLOGIA EM AGRONEGÓCIOS"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 91,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO HOSPITALAR"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 92,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO AMBIENTAL"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 95,
+      "descricaoarea": "TECNOLOGIA EM ESTÉTICA E COSMÉTICA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 5,
+      "descricaoarea": "MEDICINA VETERINÁRIA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 6,
+      "descricaoarea": "ODONTOLOGIA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 12,
+      "descricaoarea": "MEDICINA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 19,
+      "descricaoarea": "FARMÁCIA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 21,
+      "descricaoarea": "ARQUITETURA E URBANISMO"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 23,
+      "descricaoarea": "ENFERMAGEM"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 27,
+      "descricaoarea": "FONOAUDIOLOGIA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 28,
+      "descricaoarea": "NUTRIÇÃO"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 36,
+      "descricaoarea": "FISIOTERAPIA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 55,
+      "descricaoarea": "BIOMEDICINA"
+    },
+    {
+      "idciclo": 1,
+      "codareaemec": 69,
+      "descricaoarea": "TECNOLOGIA EM RADIOLOGIA"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 72,
+      "descricaoarea": "TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 26,
+      "descricaoarea": "DESIGN"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 79,
+      "descricaoarea": "TECNOLOGIA EM REDES DE COMPUTADORES"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 6407,
+      "descricaoarea": "Letras - Inglês"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 6409,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 904,
+      "descricaoarea": "LETRAS-PORTUGUÊS (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 905,
+      "descricaoarea": "LETRAS-PORTUGUÊS E INGLÊS (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 906,
+      "descricaoarea": "LETRAS-PORTUGUÊS E ESPANHOL (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 702,
+      "descricaoarea": "MATEMÁTICA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 1402,
+      "descricaoarea": "FÍSICA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 1501,
+      "descricaoarea": "QUÍMICA (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 1502,
+      "descricaoarea": "QUÍMICA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 1601,
+      "descricaoarea": "CIÊNCIAS BIOLÓGICAS (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 1602,
+      "descricaoarea": "CIÊNCIAS BIOLÓGICAS (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 2001,
+      "descricaoarea": "PEDAGOGIA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 2401,
+      "descricaoarea": "HISTÓRIA (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 2402,
+      "descricaoarea": "HISTÓRIA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 2501,
+      "descricaoarea": "ARTES VISUAIS (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 3001,
+      "descricaoarea": "GEOGRAFIA (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 3002,
+      "descricaoarea": "GEOGRAFIA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 3201,
+      "descricaoarea": "FILOSOFIA (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 3202,
+      "descricaoarea": "FILOSOFIA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 3501,
+      "descricaoarea": "EDUCAÇÃO FÍSICA (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 3502,
+      "descricaoarea": "EDUCAÇÃO FÍSICA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 4004,
+      "descricaoarea": "CIÊNCIA DA COMPUTAÇÃO (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 4005,
+      "descricaoarea": "CIÊNCIA DA COMPUTAÇÃO (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 4006,
+      "descricaoarea": "SISTEMAS DE INFORMAÇÃO"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 4301,
+      "descricaoarea": "MÚSICA (LICENCIATURA)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 5401,
+      "descricaoarea": "CIÊNCIAS SOCIAIS (BACHARELADO)"
+    },
+    {
+      "idciclo": 2,
+      "codareaemec": 5402,
+      "descricaoarea": "CIÊNCIAS SOCIAIS (LICENCIATURA)"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 2,
+      "descricaoarea": "DIREITO"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 803,
+      "descricaoarea": "JORNALISMO"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 804,
+      "descricaoarea": "PUBLICIDADE E PROPAGANDA"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 81,
+      "descricaoarea": "RELAÇÕES INTERNACIONAIS"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 83,
+      "descricaoarea": "TECNOLOGIA EM DESIGN DE MODA"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 84,
+      "descricaoarea": "TECNOLOGIA EM MARKETING"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 85,
+      "descricaoarea": "TECNOLOGIA EM PROCESSOS GERENCIAIS"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 86,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO DE RECURSOS HUMANOS"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 87,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO FINANCEIRA"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 88,
+      "descricaoarea": "TECNOLOGIA EM GASTRONOMIA"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 102,
+      "descricaoarea": "TECNOLOGIA EM COMÉRCIO EXTERIOR"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 103,
+      "descricaoarea": "TECNOLOGIA EM DESIGN DE INTERIORES"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 104,
+      "descricaoarea": "TECNOLOGIA EM DESIGN GRÁFICO"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 105,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO DA QUALIDADE"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 106,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO PÚBLICA"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 93,
+      "descricaoarea": "TECNOLOGIA EM GESTÃO COMERCIAL"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 94,
+      "descricaoarea": "TECNOLOGIA EM LOGÍSTICA"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 22,
+      "descricaoarea": "CIÊNCIAS CONTÁBEIS"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 13,
+      "descricaoarea": "CIÊNCIAS ECONÔMICAS"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 18,
+      "descricaoarea": "PSICOLOGIA"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 67,
+      "descricaoarea": "SECRETARIADO EXECUTIVO"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 38,
+      "descricaoarea": "SERVIÇO SOCIAL"
+    },
+    {
+      "idciclo": 3,
+      "codareaemec": 29,
+      "descricaoarea": "TURISMO"
+    }
+  ],
+  "post": [
+    {
+      "descricaoarea": "TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL",
+      "id": 1
+    },
+    {
+      "descricaoarea": "TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "id": 2
+    },
+    {
+      "descricaoarea": "ENGENHARIA DE COMPUTAÇÃO",
+      "id": 3
+    },
+    {
+      "descricaoarea": "TECNOLOGIA EM GESTÃO HOSPITALAR",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+</style>
+</head>
+<body>
+​
+<h2>Selecione o curso</h2>
+<select #select (click)="selection($event)">
+  <option value="" >selecione um curso</option>
+  <option value="99">Curso 1</option>
+  <option value="3">Curso 2</option>
+  <option value="2">Curso 3</option>
+  <option value="1" >Curso 4</option>
+</select>
+<br>
+<hr>
+​
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Curso selecionado</h2>
+    <p *ngFor="let curso of cursos">
+      {{ curso.descricaoarea }}
+    </p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p *ngFor="let curso of cursosReprovados" class="no-selector" (click)="listSelector($event)">
+      {{ curso.descricaoarea }}
+    </p>
+
+  </div>
+
+  <div class="column" style="background-color:#fff;">
+    <br>
+    <button (click)="next()">>></button>
+    <br><br>
+    <button (click)="remove()"><<</button>
+    <br><br>
+    <button>Enviar</button>
+  </div>
+
+  <div class="column" style="background-color:#ccc;">
+    <h2>Column 4</h2>
+    <p *ngFor="let curso2 of body2" class="no-selector" >
+      {{ curso2.descricaoarea }}
+    </p>
+  </div>
+</div>
+​
+</body>
+</html>
+
+
+
